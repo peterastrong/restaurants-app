@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type_of_food: MyString
+  location: MyString
+  rating_out_of_ten: MyString
+  favorite_item: MyString
+  friendly: false
+
+two:
+  name: MyString
+  type_of_food: MyString
+  location: MyString
+  rating_out_of_ten: MyString
+  favorite_item: MyString
+  friendly: false
